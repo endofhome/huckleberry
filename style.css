@@ -22,4 +22,5 @@ body {
 
 .intro-chunk {
   margin-top: 128px;
+  max-width: 352px;
 }

@@ -42,6 +42,18 @@ main {
   margin-bottom: 50px;
 }
 
+.indented-heading {
+  margin-left: -40px;
+  margin-right: 144px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 40px;
+  background-color: hsl(45, 100%, 50%);
+  border-bottom-style: solid;
+  border-bottom-width: 8px;
+  border-bottom-color: hsl(45, 100%, 40%);
+}
+
 .text-green {
   color: hsl(160, 100%, 30%);
 }

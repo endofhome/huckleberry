@@ -24,3 +24,11 @@ body {
   margin-top: 128px;
   max-width: 352px;
 }
+
+.title {
+  margin-bottom: 50px;
+}
+
+.green {
+  color: hsl(160deg, 100%, 30%);
+}

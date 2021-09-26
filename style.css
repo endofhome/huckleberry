@@ -34,12 +34,13 @@ main {
 }
 
 .intro-chunk {
-  padding-top: 128px;
+  padding-top: 96px;
   max-width: 352px;
+  margin-bottom: 56px;
 }
 
 .title {
-  margin-bottom: 50px;
+  margin-bottom: 56px;
 }
 
 .card {

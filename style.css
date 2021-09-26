@@ -5,9 +5,18 @@
 
 html,
 body {
+  height: 100%;
   font-size: 18px;
   margin: 0;
   padding: 0;
+}
+
+body {
+  min-height: 100%;
+}
+
+main {
+  padding-top: 56px;
 }
 
 /* Add styles here! */
@@ -20,8 +29,12 @@ body {
   padding-right: 16px;
 }
 
+.min-height-wrapper {
+  min-height: 100%;
+}
+
 .intro-chunk {
-  margin-top: 128px;
+  padding-top: 128px;
   max-width: 352px;
 }
 
@@ -29,6 +42,20 @@ body {
   margin-bottom: 50px;
 }
 
-.green {
-  color: hsl(160deg, 100%, 30%);
+.text-green {
+  color: hsl(160, 100%, 30%);
+}
+
+.background-grey-light {
+  background-color: hsl(0, 0%, 60%)
+}
+
+.background-white {
+  background-color: hsl(0, 0%, 100%)
+}
+
+.border-bottom-dark-grey {
+  border-bottom-style: solid;
+  border-bottom-width: 8px;
+  border-bottom-color: hsl(0, 0%, 30%);
 }

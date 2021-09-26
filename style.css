@@ -59,3 +59,7 @@ main {
   border-bottom-width: 8px;
   border-bottom-color: hsl(0, 0%, 30%);
 }
+
+.text-padding {
+  padding: 24px;
+}

@@ -24,8 +24,6 @@ main {
 .max-width-wrapper {
   max-width: 670px;
   margin: auto;
-  padding-left: 16px;
-  padding-right: 16px;
 }
 
 .min-height-wrapper {
@@ -81,6 +79,6 @@ main {
 }
 
 .text-padding {
-  padding-left: 24px;
-  padding-right: 24px;
+  padding-left: 32px;
+  padding-right: 32px;
 }

@@ -34,13 +34,17 @@ main {
 }
 
 .intro-chunk {
-  padding-top: 96px;
-  max-width: 352px;
+  padding-top: 64px;
+  max-width: 416px;
   margin-bottom: 56px;
 }
 
 .title {
   margin-bottom: 56px;
+}
+
+.strapline {
+  font-size: 1.25rem;
 }
 
 .card {
